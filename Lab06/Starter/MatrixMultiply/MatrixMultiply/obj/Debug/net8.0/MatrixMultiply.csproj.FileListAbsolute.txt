@@ -1,0 +1,15 @@
+D:\Labs\LabWork05\Lab06\Starter\MatrixMultiply\MatrixMultiply\bin\Debug\net8.0\MatrixMultiply.exe
+D:\Labs\LabWork05\Lab06\Starter\MatrixMultiply\MatrixMultiply\bin\Debug\net8.0\MatrixMultiply.deps.json
+D:\Labs\LabWork05\Lab06\Starter\MatrixMultiply\MatrixMultiply\bin\Debug\net8.0\MatrixMultiply.runtimeconfig.json
+D:\Labs\LabWork05\Lab06\Starter\MatrixMultiply\MatrixMultiply\bin\Debug\net8.0\MatrixMultiply.dll
+D:\Labs\LabWork05\Lab06\Starter\MatrixMultiply\MatrixMultiply\bin\Debug\net8.0\MatrixMultiply.pdb
+D:\Labs\LabWork05\Lab06\Starter\MatrixMultiply\MatrixMultiply\obj\Debug\net8.0\MatrixMultiply.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\LabWork05\Lab06\Starter\MatrixMultiply\MatrixMultiply\obj\Debug\net8.0\MatrixMultiply.AssemblyInfoInputs.cache
+D:\Labs\LabWork05\Lab06\Starter\MatrixMultiply\MatrixMultiply\obj\Debug\net8.0\MatrixMultiply.AssemblyInfo.cs
+D:\Labs\LabWork05\Lab06\Starter\MatrixMultiply\MatrixMultiply\obj\Debug\net8.0\MatrixMultiply.csproj.CoreCompileInputs.cache
+D:\Labs\LabWork05\Lab06\Starter\MatrixMultiply\MatrixMultiply\obj\Debug\net8.0\MatrixMultiply.sourcelink.json
+D:\Labs\LabWork05\Lab06\Starter\MatrixMultiply\MatrixMultiply\obj\Debug\net8.0\MatrixMultiply.dll
+D:\Labs\LabWork05\Lab06\Starter\MatrixMultiply\MatrixMultiply\obj\Debug\net8.0\refint\MatrixMultiply.dll
+D:\Labs\LabWork05\Lab06\Starter\MatrixMultiply\MatrixMultiply\obj\Debug\net8.0\MatrixMultiply.pdb
+D:\Labs\LabWork05\Lab06\Starter\MatrixMultiply\MatrixMultiply\obj\Debug\net8.0\MatrixMultiply.genruntimeconfig.cache
+D:\Labs\LabWork05\Lab06\Starter\MatrixMultiply\MatrixMultiply\obj\Debug\net8.0\ref\MatrixMultiply.dll
