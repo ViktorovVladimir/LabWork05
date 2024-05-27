@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "FileDetails": {
+      "commandName": "Project",
+      "commandLineArgs": "debug.txt"
+    },
+    "Profile 1": {
+      "commandName": "Executable"
+    }
+  }
+}

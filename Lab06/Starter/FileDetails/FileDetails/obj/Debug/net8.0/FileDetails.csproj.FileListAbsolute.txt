@@ -3,3 +3,13 @@ D:\Labs\LabWork05\Lab06\Starter\FileDetails\FileDetails\obj\Debug\net8.0\FileDet
 D:\Labs\LabWork05\Lab06\Starter\FileDetails\FileDetails\obj\Debug\net8.0\FileDetails.AssemblyInfo.cs
 D:\Labs\LabWork05\Lab06\Starter\FileDetails\FileDetails\obj\Debug\net8.0\FileDetails.csproj.CoreCompileInputs.cache
 D:\Labs\LabWork05\Lab06\Starter\FileDetails\FileDetails\obj\Debug\net8.0\FileDetails.sourcelink.json
+D:\Labs\LabWork05\Lab06\Starter\FileDetails\FileDetails\bin\Debug\net8.0\FileDetails.exe
+D:\Labs\LabWork05\Lab06\Starter\FileDetails\FileDetails\bin\Debug\net8.0\FileDetails.deps.json
+D:\Labs\LabWork05\Lab06\Starter\FileDetails\FileDetails\bin\Debug\net8.0\FileDetails.runtimeconfig.json
+D:\Labs\LabWork05\Lab06\Starter\FileDetails\FileDetails\bin\Debug\net8.0\FileDetails.dll
+D:\Labs\LabWork05\Lab06\Starter\FileDetails\FileDetails\bin\Debug\net8.0\FileDetails.pdb
+D:\Labs\LabWork05\Lab06\Starter\FileDetails\FileDetails\obj\Debug\net8.0\FileDetails.dll
+D:\Labs\LabWork05\Lab06\Starter\FileDetails\FileDetails\obj\Debug\net8.0\refint\FileDetails.dll
+D:\Labs\LabWork05\Lab06\Starter\FileDetails\FileDetails\obj\Debug\net8.0\FileDetails.pdb
+D:\Labs\LabWork05\Lab06\Starter\FileDetails\FileDetails\obj\Debug\net8.0\FileDetails.genruntimeconfig.cache
+D:\Labs\LabWork05\Lab06\Starter\FileDetails\FileDetails\obj\Debug\net8.0\ref\FileDetails.dll
