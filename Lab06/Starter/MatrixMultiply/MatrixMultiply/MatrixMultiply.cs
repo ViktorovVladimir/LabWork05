@@ -5,6 +5,21 @@
     //--.
     public class Test
     {
+        //--.
+        static void Output(int[,] result)
+        {
+            for(int r = 0; r<result.GetLength(0); r++)
+            {
+                for(int c = 0; c<result.GetLength(1); c++)
+                {
+                    Console.Write("{0} ", result[r, c]);
+                }
+                Console.WriteLine();
+            }
+        }
+
+
+        //--.
         public static void Main()
         {
             //--.
@@ -33,6 +48,12 @@
             Console.WriteLine(result[0, 1]);
             Console.WriteLine(result[1, 0]);
             Console.WriteLine(result[1, 1]);
+               
+            //--.
+            Console.Write("\n");
+
+            //--.
+            Output(result);
         }
     }
 }
