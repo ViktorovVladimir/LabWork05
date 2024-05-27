@@ -18,6 +18,16 @@
             }
         }
 
+        //--.
+        static int[,] Multiply(int[,] a, int [,] b)
+        {
+            int[,] result = new int[2, 2];
+            result[0, 0] = a[0, 0] * b[0, 0] + a[0, 1] * b[1, 0];
+            result[0, 1] = a[0, 0] * b[0, 1] + a[0, 1] * b[1, 1];
+            result[1, 0] = a[1, 0] * b[0, 0] + a[1, 1] * b[1, 0];
+            result[1, 1] = a[1, 0] * b[0, 1] + a[1, 1] * b[1, 1];
+            return result;
+        }
 
         //--.
         public static void Main()
@@ -37,11 +47,15 @@
             b[1, 1] = 8;
 
             //--.
+            int[,] result = Multiply(a, b);
+            /*
+            //--.
             int[,] result = new int[2, 2];
             result[0, 0] = a[0, 0] * b[0, 0] + a[0, 1] * b[1, 0];
             result[0, 1] = a[0, 0] * b[0, 1] + a[0, 1] * b[1, 1];
             result[1, 0] = a[1, 0] * b[0, 0] + a[1, 1] * b[1, 0];
             result[1, 1] = a[1, 0] * b[0, 1] + a[1, 1] * b[1, 1];
+            */
 
             //--. 
             Console.WriteLine(result[0, 0]);
