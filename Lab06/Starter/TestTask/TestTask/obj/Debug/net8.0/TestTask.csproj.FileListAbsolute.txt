@@ -1,0 +1,15 @@
+D:\Labs\LabWork05\Lab06\Starter\TestTask\TestTask\bin\Debug\net8.0\TestTask.exe
+D:\Labs\LabWork05\Lab06\Starter\TestTask\TestTask\bin\Debug\net8.0\TestTask.deps.json
+D:\Labs\LabWork05\Lab06\Starter\TestTask\TestTask\bin\Debug\net8.0\TestTask.runtimeconfig.json
+D:\Labs\LabWork05\Lab06\Starter\TestTask\TestTask\bin\Debug\net8.0\TestTask.dll
+D:\Labs\LabWork05\Lab06\Starter\TestTask\TestTask\bin\Debug\net8.0\TestTask.pdb
+D:\Labs\LabWork05\Lab06\Starter\TestTask\TestTask\obj\Debug\net8.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\LabWork05\Lab06\Starter\TestTask\TestTask\obj\Debug\net8.0\TestTask.AssemblyInfoInputs.cache
+D:\Labs\LabWork05\Lab06\Starter\TestTask\TestTask\obj\Debug\net8.0\TestTask.AssemblyInfo.cs
+D:\Labs\LabWork05\Lab06\Starter\TestTask\TestTask\obj\Debug\net8.0\TestTask.csproj.CoreCompileInputs.cache
+D:\Labs\LabWork05\Lab06\Starter\TestTask\TestTask\obj\Debug\net8.0\TestTask.sourcelink.json
+D:\Labs\LabWork05\Lab06\Starter\TestTask\TestTask\obj\Debug\net8.0\TestTask.dll
+D:\Labs\LabWork05\Lab06\Starter\TestTask\TestTask\obj\Debug\net8.0\refint\TestTask.dll
+D:\Labs\LabWork05\Lab06\Starter\TestTask\TestTask\obj\Debug\net8.0\TestTask.pdb
+D:\Labs\LabWork05\Lab06\Starter\TestTask\TestTask\obj\Debug\net8.0\TestTask.genruntimeconfig.cache
+D:\Labs\LabWork05\Lab06\Starter\TestTask\TestTask\obj\Debug\net8.0\ref\TestTask.dll
