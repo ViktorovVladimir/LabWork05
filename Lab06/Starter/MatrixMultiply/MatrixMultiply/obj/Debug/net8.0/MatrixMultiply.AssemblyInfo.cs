@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MatrixMultiply")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+677315dca527f372b97535433bf62b6319d98dfa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4923645c8b5257d34e0581a38273a8cb5a68cf7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MatrixMultiply")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MatrixMultiply")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
